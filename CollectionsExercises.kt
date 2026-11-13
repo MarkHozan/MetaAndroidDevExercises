@@ -1,6 +1,6 @@
 /*
  * Created by Mark Hozan
- * Exercise: Practice using for Meta Android Developer course
+ * Exercise: Practice using Collections for Meta Android Developer course
  * 2026
  */
 class Comment(val userId: Int, var message: String)
